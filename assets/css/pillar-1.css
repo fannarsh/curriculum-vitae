@@ -5321,6 +5321,12 @@ button.bg-dark:focus {
 .px-5 {
   padding-left: 3rem !important; }
 
+.pb-6 {
+  padding-bottom: 5rem !important; }
+
+.pt-6 {
+  padding-top: 21rem !important; }
+
 .m-auto {
   margin: auto !important; }
 
